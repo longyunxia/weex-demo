@@ -1,0 +1,4 @@
+#Fri Feb 15 13:57:47 CST 2019
+base.0=/Users/thea/Workspace/weex-demo/platforms/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/thea/Workspace/weex-demo/platforms/android/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thea/Workspace/weex-demo/platforms/android/app/build/intermediates/res/merged/debug/menu/main_scan.xml",
+        "source": "/Users/thea/Workspace/weex-demo/platforms/android/app/src/main/res/menu/main_scan.xml"
+    },
+    {
+        "merged": "/Users/thea/Workspace/weex-demo/platforms/android/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/thea/Workspace/weex-demo/platforms/android/app/src/main/res/menu/main.xml"
+    }
+]
